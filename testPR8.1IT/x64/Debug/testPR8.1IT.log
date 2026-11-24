@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  testPR8.1IT.cpp
+C:\lpnu\AP\LR\PR8.1IT\PR8.1IT\pr8.1it.cpp(22,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/testPR8.1IT.cpp')
+  
+     Creating library C:\lpnu\AP\LR\PR8.1IT\x64\Debug\testPR8.1IT.lib and object C:\lpnu\AP\LR\PR8.1IT\x64\Debug\testPR8.1IT.exp
+  testPR8.1IT.vcxproj -> C:\lpnu\AP\LR\PR8.1IT\x64\Debug\testPR8.1IT.dll
